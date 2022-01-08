@@ -1,0 +1,5 @@
+.settings
+.pmd
+.eclipse-pmd
+.ruleset
+/target/
